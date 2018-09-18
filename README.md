@@ -10,6 +10,6 @@
 1. [Random Forests And Decision Trees]()
 2. [Eigen Portfolio construction via PCA](Final_pca_eigen_portfolios_m2_ex3.ipynb)
 3. [Data Visualization with t-SNE](Final_DJI_tSNE_m2_ex4_corrected.ipynb)
-4. [Sequence Modeling](Final_DJI_tSNE_m2_ex4_corrected.ipynb)
+4.1 [Sequence Modeling](Final_DJI_tSNE_m2_ex4_corrected.ipynb)
   a [short-memory-latent-variables]
 
