@@ -4,7 +4,7 @@
 1. [Euclidean Distance Calculation](MY_Euclidian_Distance_m1_ex1_v3.ipynb)
 2. [Linear Regression](Final_linear_regress_m1_ex2_v4.ipynb)
 3. [Tobit Regression](MY_Tobit_regression_m1_ex3_v4.ipynb)
-4. [Bank defaults prediction using FDIC dataset]()
+4. [Bank defaults prediction using FDIC dataset](Final_Bank_failure_m1_ex4_v4.ipynb)
 
 ## Fundamentals of Machine Learning in Finance
 1. [Random Forests And Decision Trees](FINAL_Bank_failure_rand_forests_m2_ex2.ipynb)
