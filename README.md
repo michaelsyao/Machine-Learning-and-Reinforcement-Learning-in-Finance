@@ -12,3 +12,6 @@
 3. [Data Visualization with t-SNE](Final_DJI_tSNE_m2_ex4_corrected.ipynb)
 4. [Sequence Modeling and Reinforcement Learning](Final_absorp_ratio_m2_ex5.ipynb)
 
+## Reinforcement Learning in Finance
+1. [Random Forests And Decision Trees](FINAL_Bank_failure_rand_forests_m2_ex2.ipynb)
+
