@@ -1,4 +1,4 @@
-# Machine_Learning_in_Finance
+# Machine Learning and Reinforcement Learning in Finance
 
 ## Guided Tour of Machine Learning in Finance
 1. [Euclidean Distance Calculation](MY_Euclidian_Distance_m1_ex1_v3.ipynb)
