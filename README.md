@@ -21,7 +21,7 @@
 1. [QLBS Q-Learner in the Black-Scholes(-Merton) Worlds](https://arxiv.org/abs/1712.04609)
 2. [Algorithm Trading using Q-Learning and Recurrent Reinforcement Learning](http://cs229.stanford.edu/proj2009/LvDuZhai.pdf)
 3. [Algorithmic Trading with Fitted Q Iteration and
-Heston Model](Final_discrete_black_scholes_m3_ex1_v3.ipynb)
+Heston Model](https://arxiv.org/abs/1805.07478)
 4. [Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers](https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
 
 
