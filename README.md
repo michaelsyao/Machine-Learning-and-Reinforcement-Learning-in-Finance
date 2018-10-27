@@ -20,5 +20,5 @@
 ## Reference Paper
 1. [Algorithmic Trading with Fitted Q Iteration and
 Heston Model](Final_discrete_black_scholes_m3_ex1_v3.ipynb)
-2. [QLBS Q-Learner in the Black-Scholes(-Merton) Worlds]
+2. QLBS Q-Learner in the Black-Scholes(-Merton) Worlds
 
