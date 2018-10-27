@@ -21,7 +21,7 @@
 1. [Algorithmic Trading with Fitted Q Iteration and
 Heston Model](Final_discrete_black_scholes_m3_ex1_v3.ipynb)
 
-2.- [Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers](https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
+2.-[Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers](https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
 
 3. [QLBS Q-Learner in the Black-Scholes(-Merton) Worlds] (https://www.chicagobooth.edu/~/media/FE874EE65F624AAEBD0166B1974FD74D.pdf)
 
